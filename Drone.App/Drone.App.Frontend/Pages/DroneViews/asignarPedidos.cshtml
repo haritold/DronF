@@ -34,6 +34,42 @@
 
     </style>
 
+<!-- Inicio tabla encargados -->
+
+<h1>Lista de encargados</h1>
+
+<table class="table">
+    @{foreach (var encargado in Model.Encargados)
+    {
+        <tr>
+            <td>@encargado.Nombre</td>
+            <td>@encargado.Apellido</td>
+            <td>@encargado.Cedula</td>
+            <td>@encargado.Telefono</td>
+            <td>@encargado.Correo</td>
+            <td>@encargado.Ciudad</td>
+            <td>
+                <a class="btn btn-primary table btn" asp-page="----" asp-route-saludoId="--" > 
+                <i class="fas fa-info-circle" ></i>
+                Info
+                </a>
+            </td>
+
+            <td>
+                <a class="btn btn-primary table btn" asp-page="----" asp-route-saludoId="" > 
+                <i class="fas fa-info-circle" ></i>
+                Editar
+                </a>
+            </td>
+        </tr>
+    }}
+</table>
+
+
+<!-- End tabla encargados -->
+
+
+
 <div class="row">
 <!-- Form for register encargado -->
 

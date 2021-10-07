@@ -5743,11 +5743,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\TheDroneProject\\Drone.App\\Drone.App.Frontend\\Drone.App.Frontend.csproj",
+      "projectUniqueName": "D:\\Desktop\\DroneRepo\\DronF\\Drone.App\\Drone.App.Frontend\\Drone.App.Frontend.csproj",
       "projectName": "Drone.App.Frontend",
-      "projectPath": "C:\\TheDroneProject\\Drone.App\\Drone.App.Frontend\\Drone.App.Frontend.csproj",
+      "projectPath": "D:\\Desktop\\DroneRepo\\DronF\\Drone.App\\Drone.App.Frontend\\Drone.App.Frontend.csproj",
       "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
-      "outputPath": "C:\\TheDroneProject\\Drone.App\\Drone.App.Frontend\\obj\\",
+      "outputPath": "D:\\Desktop\\DroneRepo\\DronF\\Drone.App\\Drone.App.Frontend\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -5761,11 +5761,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\TheDroneProject\\Drone.App\\Drone.App.Dominio\\Drone.App.Dominio.csproj": {
-              "projectPath": "C:\\TheDroneProject\\Drone.App\\Drone.App.Dominio\\Drone.App.Dominio.csproj"
+            "D:\\Desktop\\DroneRepo\\DronF\\Drone.App\\Drone.App.Dominio\\Drone.App.Dominio.csproj": {
+              "projectPath": "D:\\Desktop\\DroneRepo\\DronF\\Drone.App\\Drone.App.Dominio\\Drone.App.Dominio.csproj"
             },
-            "C:\\TheDroneProject\\Drone.App\\Drone.App.Persistencia\\Drone.App.Persistencia.csproj": {
-              "projectPath": "C:\\TheDroneProject\\Drone.App\\Drone.App.Persistencia\\Drone.App.Persistencia.csproj"
+            "D:\\Desktop\\DroneRepo\\DronF\\Drone.App\\Drone.App.Persistencia\\Drone.App.Persistencia.csproj": {
+              "projectPath": "D:\\Desktop\\DroneRepo\\DronF\\Drone.App\\Drone.App.Persistencia\\Drone.App.Persistencia.csproj"
             }
           }
         }
