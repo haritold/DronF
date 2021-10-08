@@ -1531,6 +1531,9 @@
         }
       },
       "Drone.App.Dominio/1.0.0": {
+        "dependencies": {
+          "System.ComponentModel.Annotations": "5.0.0"
+        },
         "runtime": {
           "Drone.App.Dominio.dll": {}
         }
