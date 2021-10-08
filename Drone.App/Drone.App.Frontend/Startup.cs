@@ -1,5 +1,4 @@
-using System.Data;
-using System.IO;
+using System.Net.Security;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -29,9 +28,11 @@ namespace Drone.App.Frontend
         {
             services.AddRazorPages();
             /// ojo con esto jejej
-            services.AddScoped<IRepositorioCliente, RepositorioCliente>();
-            services.AddScoped<IRepositorioEncargado, RepositorioEncargado>();
-              
+            // services.AddScoped<IRepositorioCliente, RepositorioCliente>();
+            // services.AddScoped<IRepositorioEncargado, RepositorioEncargado>();
+
+            services.AddSingleton<IRepositorioCliente, RepositorioCliente>();
+            services.AddSingleton<IRepositorioEncargado, RepositorioEncargado>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

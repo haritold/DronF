@@ -30,9 +30,7 @@ namespace Drone.App.Persistencia
 
         public Encargado GetEncargadoPorId(int encargadoId)
         {
-
             return encargados.SingleOrDefault(e => e.Id == encargadoId);
-
         }
 
         public IEnumerable<Encargado> GetAll()
@@ -40,8 +38,25 @@ namespace Drone.App.Persistencia
             return encargados;
         }
 
+        ///UPDATE
 
-
+        public Encargado Update(Encargado encargadoActualizado)
+        {
+            var encargado = encargados.SingleOrDefault(r => r.Id == encargadoActualizado.Id);
+            if(encargado!=null)
+            {
+                encargado.Nombre = encargadoActualizado.Nombre;
+                encargado.Apellido = encargadoActualizado.Apellido;
+                encargado.Cedula = encargadoActualizado.Cedula;
+                encargado.Nombre = encargadoActualizado.Nombre;
+                encargado.Telefono = encargadoActualizado.Telefono;
+                encargado.Correo = encargadoActualizado.Correo;
+                encargado.Ciudad = encargadoActualizado.Ciudad;
+                encargado.PasswordEncarg = encargadoActualizado.PasswordEncarg;
+                
+            }
+            return encargado;
+        }
 
 
     }

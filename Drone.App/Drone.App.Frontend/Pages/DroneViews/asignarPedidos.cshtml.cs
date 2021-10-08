@@ -1,7 +1,3 @@
-using System.Diagnostics;
-using System.Globalization;
-using System.Data;
-using System.IO;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -26,11 +22,10 @@ namespace Drone.App.Frontend.Pages
             this.repositorioEncargado=repositorioEncargado;
         }
 
-
         public void OnGet()
         {
             Encargados = repositorioEncargado.GetAll();
-           
         }
+
     }
 }
