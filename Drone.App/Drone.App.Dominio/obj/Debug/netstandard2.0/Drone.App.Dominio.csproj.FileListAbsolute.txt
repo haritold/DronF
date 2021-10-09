@@ -6,3 +6,12 @@ C:\TheDroneProject\Drone.App\Drone.App.Dominio\bin\Debug\netstandard2.0\Drone.Ap
 C:\TheDroneProject\Drone.App\Drone.App.Dominio\bin\Debug\netstandard2.0\Drone.App.Dominio.pdb
 C:\TheDroneProject\Drone.App\Drone.App.Dominio\obj\Debug\netstandard2.0\Drone.App.Dominio.dll
 C:\TheDroneProject\Drone.App\Drone.App.Dominio\obj\Debug\netstandard2.0\Drone.App.Dominio.pdb
+C:\DRON\DronF\Drone.App\Drone.App.Dominio\bin\Debug\netstandard2.0\Drone.App.Dominio.deps.json
+C:\DRON\DronF\Drone.App\Drone.App.Dominio\bin\Debug\netstandard2.0\Drone.App.Dominio.dll
+C:\DRON\DronF\Drone.App\Drone.App.Dominio\bin\Debug\netstandard2.0\Drone.App.Dominio.pdb
+C:\DRON\DronF\Drone.App\Drone.App.Dominio\obj\Debug\netstandard2.0\Drone.App.Dominio.csprojAssemblyReference.cache
+C:\DRON\DronF\Drone.App\Drone.App.Dominio\obj\Debug\netstandard2.0\Drone.App.Dominio.AssemblyInfoInputs.cache
+C:\DRON\DronF\Drone.App\Drone.App.Dominio\obj\Debug\netstandard2.0\Drone.App.Dominio.AssemblyInfo.cs
+C:\DRON\DronF\Drone.App\Drone.App.Dominio\obj\Debug\netstandard2.0\Drone.App.Dominio.csproj.CoreCompileInputs.cache
+C:\DRON\DronF\Drone.App\Drone.App.Dominio\obj\Debug\netstandard2.0\Drone.App.Dominio.dll
+C:\DRON\DronF\Drone.App\Drone.App.Dominio\obj\Debug\netstandard2.0\Drone.App.Dominio.pdb

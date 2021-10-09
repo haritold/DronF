@@ -7263,19 +7263,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\USUARIO\\.nuget\\packages\\": {}
+    "C:\\Users\\Jking\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\TheDroneProject\\Drone.App\\Drone.App.Persistencia\\Drone.App.Persistencia.csproj",
+      "projectUniqueName": "C:\\DRON\\DronF\\Drone.App\\Drone.App.Persistencia\\Drone.App.Persistencia.csproj",
       "projectName": "Drone.App.Persistencia",
-      "projectPath": "C:\\TheDroneProject\\Drone.App\\Drone.App.Persistencia\\Drone.App.Persistencia.csproj",
-      "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
-      "outputPath": "C:\\TheDroneProject\\Drone.App\\Drone.App.Persistencia\\obj\\",
+      "projectPath": "C:\\DRON\\DronF\\Drone.App\\Drone.App.Persistencia\\Drone.App.Persistencia.csproj",
+      "packagesPath": "C:\\Users\\Jking\\.nuget\\packages\\",
+      "outputPath": "C:\\DRON\\DronF\\Drone.App\\Drone.App.Persistencia\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Jking\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.1"
@@ -7286,8 +7286,8 @@
       "frameworks": {
         "netstandard2.1": {
           "projectReferences": {
-            "C:\\TheDroneProject\\Drone.App\\Drone.App.Dominio\\Drone.App.Dominio.csproj": {
-              "projectPath": "C:\\TheDroneProject\\Drone.App\\Drone.App.Dominio\\Drone.App.Dominio.csproj"
+            "C:\\DRON\\DronF\\Drone.App\\Drone.App.Dominio\\Drone.App.Dominio.csproj": {
+              "projectPath": "C:\\DRON\\DronF\\Drone.App\\Drone.App.Dominio\\Drone.App.Dominio.csproj"
             }
           }
         }
@@ -7337,7 +7337,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.119\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.412\\RuntimeIdentifierGraph.json"
       }
     }
   }

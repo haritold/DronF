@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\TheDroneProject\\Drone.App\\Drone.App.Frontend\\Drone.App.Frontend.csproj": {}
+    "C:\\DRON\\DronF\\Drone.App\\Drone.App.Frontend\\Drone.App.Frontend.csproj": {}
   },
   "projects": {
-    "C:\\TheDroneProject\\Drone.App\\Drone.App.Dominio\\Drone.App.Dominio.csproj": {
+    "C:\\DRON\\DronF\\Drone.App\\Drone.App.Dominio\\Drone.App.Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\TheDroneProject\\Drone.App\\Drone.App.Dominio\\Drone.App.Dominio.csproj",
+        "projectUniqueName": "C:\\DRON\\DronF\\Drone.App\\Drone.App.Dominio\\Drone.App.Dominio.csproj",
         "projectName": "Drone.App.Dominio",
-        "projectPath": "C:\\TheDroneProject\\Drone.App\\Drone.App.Dominio\\Drone.App.Dominio.csproj",
-        "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
-        "outputPath": "C:\\TheDroneProject\\Drone.App\\Drone.App.Dominio\\obj\\",
+        "projectPath": "C:\\DRON\\DronF\\Drone.App\\Drone.App.Dominio\\Drone.App.Dominio.csproj",
+        "packagesPath": "C:\\Users\\Jking\\.nuget\\packages\\",
+        "outputPath": "C:\\DRON\\DronF\\Drone.App\\Drone.App.Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Jking\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
@@ -53,21 +53,21 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.119\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.412\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\TheDroneProject\\Drone.App\\Drone.App.Frontend\\Drone.App.Frontend.csproj": {
+    "C:\\DRON\\DronF\\Drone.App\\Drone.App.Frontend\\Drone.App.Frontend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\TheDroneProject\\Drone.App\\Drone.App.Frontend\\Drone.App.Frontend.csproj",
+        "projectUniqueName": "C:\\DRON\\DronF\\Drone.App\\Drone.App.Frontend\\Drone.App.Frontend.csproj",
         "projectName": "Drone.App.Frontend",
-        "projectPath": "C:\\TheDroneProject\\Drone.App\\Drone.App.Frontend\\Drone.App.Frontend.csproj",
-        "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
-        "outputPath": "C:\\TheDroneProject\\Drone.App\\Drone.App.Frontend\\obj\\",
+        "projectPath": "C:\\DRON\\DronF\\Drone.App\\Drone.App.Frontend\\Drone.App.Frontend.csproj",
+        "packagesPath": "C:\\Users\\Jking\\.nuget\\packages\\",
+        "outputPath": "C:\\DRON\\DronF\\Drone.App\\Drone.App.Frontend\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Jking\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -78,11 +78,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\TheDroneProject\\Drone.App\\Drone.App.Dominio\\Drone.App.Dominio.csproj": {
-                "projectPath": "C:\\TheDroneProject\\Drone.App\\Drone.App.Dominio\\Drone.App.Dominio.csproj"
+              "C:\\DRON\\DronF\\Drone.App\\Drone.App.Dominio\\Drone.App.Dominio.csproj": {
+                "projectPath": "C:\\DRON\\DronF\\Drone.App\\Drone.App.Dominio\\Drone.App.Dominio.csproj"
               },
-              "C:\\TheDroneProject\\Drone.App\\Drone.App.Persistencia\\Drone.App.Persistencia.csproj": {
-                "projectPath": "C:\\TheDroneProject\\Drone.App\\Drone.App.Persistencia\\Drone.App.Persistencia.csproj"
+              "C:\\DRON\\DronF\\Drone.App\\Drone.App.Persistencia\\Drone.App.Persistencia.csproj": {
+                "projectPath": "C:\\DRON\\DronF\\Drone.App\\Drone.App.Persistencia\\Drone.App.Persistencia.csproj"
               }
             }
           }
@@ -113,21 +113,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.119\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.412\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\TheDroneProject\\Drone.App\\Drone.App.Persistencia\\Drone.App.Persistencia.csproj": {
+    "C:\\DRON\\DronF\\Drone.App\\Drone.App.Persistencia\\Drone.App.Persistencia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\TheDroneProject\\Drone.App\\Drone.App.Persistencia\\Drone.App.Persistencia.csproj",
+        "projectUniqueName": "C:\\DRON\\DronF\\Drone.App\\Drone.App.Persistencia\\Drone.App.Persistencia.csproj",
         "projectName": "Drone.App.Persistencia",
-        "projectPath": "C:\\TheDroneProject\\Drone.App\\Drone.App.Persistencia\\Drone.App.Persistencia.csproj",
-        "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
-        "outputPath": "C:\\TheDroneProject\\Drone.App\\Drone.App.Persistencia\\obj\\",
+        "projectPath": "C:\\DRON\\DronF\\Drone.App\\Drone.App.Persistencia\\Drone.App.Persistencia.csproj",
+        "packagesPath": "C:\\Users\\Jking\\.nuget\\packages\\",
+        "outputPath": "C:\\DRON\\DronF\\Drone.App\\Drone.App.Persistencia\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Jking\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.1"
@@ -138,8 +138,8 @@
         "frameworks": {
           "netstandard2.1": {
             "projectReferences": {
-              "C:\\TheDroneProject\\Drone.App\\Drone.App.Dominio\\Drone.App.Dominio.csproj": {
-                "projectPath": "C:\\TheDroneProject\\Drone.App\\Drone.App.Dominio\\Drone.App.Dominio.csproj"
+              "C:\\DRON\\DronF\\Drone.App\\Drone.App.Dominio\\Drone.App.Dominio.csproj": {
+                "projectPath": "C:\\DRON\\DronF\\Drone.App\\Drone.App.Dominio\\Drone.App.Dominio.csproj"
               }
             }
           }
@@ -189,7 +189,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.119\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.412\\RuntimeIdentifierGraph.json"
         }
       }
     }

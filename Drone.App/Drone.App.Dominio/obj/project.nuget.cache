@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "3hCbcOolkXWbM/vL/kqVPjH8dnhMMGpfrqU5WgqUAjLy1gaKoEfFKO5vtFgWT9lHLCgYeqig/5HkY1RRoA4jWA==",
+  "success": true,
+  "projectFilePath": "C:\\DRON\\DronF\\Drone.App\\Drone.App.Dominio\\Drone.App.Dominio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jking\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Jking\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

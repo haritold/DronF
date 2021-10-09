@@ -9,3 +9,15 @@ C:\TheDroneProject\Drone.App\Drone.App.Persistencia\bin\Debug\netstandard2.1\Dro
 C:\TheDroneProject\Drone.App\Drone.App.Persistencia\obj\Debug\netstandard2.1\Drone.App.Persistencia.csproj.CopyComplete
 C:\TheDroneProject\Drone.App\Drone.App.Persistencia\obj\Debug\netstandard2.1\Drone.App.Persistencia.dll
 C:\TheDroneProject\Drone.App\Drone.App.Persistencia\obj\Debug\netstandard2.1\Drone.App.Persistencia.pdb
+C:\DRON\DronF\Drone.App\Drone.App.Persistencia\bin\Debug\netstandard2.1\Drone.App.Persistencia.deps.json
+C:\DRON\DronF\Drone.App\Drone.App.Persistencia\bin\Debug\netstandard2.1\Drone.App.Persistencia.dll
+C:\DRON\DronF\Drone.App\Drone.App.Persistencia\bin\Debug\netstandard2.1\Drone.App.Persistencia.pdb
+C:\DRON\DronF\Drone.App\Drone.App.Persistencia\bin\Debug\netstandard2.1\Drone.App.Dominio.dll
+C:\DRON\DronF\Drone.App\Drone.App.Persistencia\bin\Debug\netstandard2.1\Drone.App.Dominio.pdb
+C:\DRON\DronF\Drone.App\Drone.App.Persistencia\obj\Debug\netstandard2.1\Drone.App.Persistencia.csprojAssemblyReference.cache
+C:\DRON\DronF\Drone.App\Drone.App.Persistencia\obj\Debug\netstandard2.1\Drone.App.Persistencia.AssemblyInfoInputs.cache
+C:\DRON\DronF\Drone.App\Drone.App.Persistencia\obj\Debug\netstandard2.1\Drone.App.Persistencia.AssemblyInfo.cs
+C:\DRON\DronF\Drone.App\Drone.App.Persistencia\obj\Debug\netstandard2.1\Drone.App.Persistencia.csproj.CoreCompileInputs.cache
+C:\DRON\DronF\Drone.App\Drone.App.Persistencia\obj\Debug\netstandard2.1\Drone.App.Persistencia.csproj.CopyComplete
+C:\DRON\DronF\Drone.App\Drone.App.Persistencia\obj\Debug\netstandard2.1\Drone.App.Persistencia.dll
+C:\DRON\DronF\Drone.App\Drone.App.Persistencia\obj\Debug\netstandard2.1\Drone.App.Persistencia.pdb
