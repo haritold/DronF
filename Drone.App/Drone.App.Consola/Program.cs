@@ -1,7 +1,4 @@
-﻿using System.Net.NetworkInformation;
-using System.Data;
-using System.IO;
-using System;
+﻿using System;
 using Drone.App.Persistencia;
 using Drone.App.Dominio;
 
@@ -9,7 +6,7 @@ namespace Drone.App.Consola
 {
     class Program
     {
-        private static IRepositorioCliente _repoCliente = new RepositorioCliente(new Persistencia.AppContext());
+        private static IRepositorioCliente _repoCliente= new RepositorioCliente(new Persistencia.AppContext());
 
         static void Main(string[] args)
         {

@@ -33,6 +33,7 @@ namespace Drone.App.Frontend
 
             services.AddSingleton<IRepositorioCliente, RepositorioCliente>();
             services.AddSingleton<IRepositorioEncargado, RepositorioEncargado>();
+            services.AddSingleton<Persistencia.AppContext>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

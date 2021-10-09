@@ -1512,6 +1512,9 @@
       "Drone.App.Dominio/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "System.ComponentModel.Annotations": "5.0.0"
+        },
         "compile": {
           "bin/placeholder/Drone.App.Dominio.dll": {}
         },
@@ -5802,11 +5805,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\TheDroneProject\\Drone.App\\Drone.App.Consola\\Drone.App.Consola.csproj",
+      "projectUniqueName": "D:\\Desktop\\Drone Local Repo\\DronF\\Drone.App\\Drone.App.Consola\\Drone.App.Consola.csproj",
       "projectName": "Drone.App.Consola",
-      "projectPath": "C:\\TheDroneProject\\Drone.App\\Drone.App.Consola\\Drone.App.Consola.csproj",
+      "projectPath": "D:\\Desktop\\Drone Local Repo\\DronF\\Drone.App\\Drone.App.Consola\\Drone.App.Consola.csproj",
       "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
-      "outputPath": "C:\\TheDroneProject\\Drone.App\\Drone.App.Consola\\obj\\",
+      "outputPath": "D:\\Desktop\\Drone Local Repo\\DronF\\Drone.App\\Drone.App.Consola\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -5820,11 +5823,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\TheDroneProject\\Drone.App\\Drone.App.Dominio\\Drone.App.Dominio.csproj": {
-              "projectPath": "C:\\TheDroneProject\\Drone.App\\Drone.App.Dominio\\Drone.App.Dominio.csproj"
+            "D:\\Desktop\\Drone Local Repo\\DronF\\Drone.App\\Drone.App.Dominio\\Drone.App.Dominio.csproj": {
+              "projectPath": "D:\\Desktop\\Drone Local Repo\\DronF\\Drone.App\\Drone.App.Dominio\\Drone.App.Dominio.csproj"
             },
-            "C:\\TheDroneProject\\Drone.App\\Drone.App.Persistencia\\Drone.App.Persistencia.csproj": {
-              "projectPath": "C:\\TheDroneProject\\Drone.App\\Drone.App.Persistencia\\Drone.App.Persistencia.csproj"
+            "D:\\Desktop\\Drone Local Repo\\DronF\\Drone.App\\Drone.App.Persistencia\\Drone.App.Persistencia.csproj": {
+              "projectPath": "D:\\Desktop\\Drone Local Repo\\DronF\\Drone.App\\Drone.App.Persistencia\\Drone.App.Persistencia.csproj"
             }
           }
         }
