@@ -1,5 +1,5 @@
 namespace Drone.App.Dominio
-{
+{   //prueba clon1
     public class Cliente
     {
         public int Id {get; set;}
