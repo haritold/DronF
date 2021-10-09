@@ -43,6 +43,8 @@
                 <label for="inputState" class="form-label">Productos</label>
                 <select id="inputState" class="form-select">
                 <option selected>Seleccione los productos</option>
+                @foreach (var saludo in Model.Saludos)
+                    { 
                 <option value="1">Producto #1</option>
                 <option value="2">Producto #2</option>
                 <option value="3">Producto #3</option>

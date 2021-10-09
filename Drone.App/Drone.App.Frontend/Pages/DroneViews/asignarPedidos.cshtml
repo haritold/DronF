@@ -99,11 +99,13 @@
    
             <div class="mb-3">
                 <label for="validarTema">Seleccione el Encargado:<span class="red">*</span></label>
-                <select class="custom-select" id="validarTema" name="validarTema" required>
+                    <select class="custom-select" id="validarTema" name="validarTema" required>
                     <option selected disabled value="">Selecciona...</option>
-                    <option value="Problema con acceso a Web">Falcao García</option>
-                    <option value="Propuesta de colaboración">James Rodriguez</option> 
-                    <option value="Propuesta de colaboración">Luis Díaz</option> 
+                    @foreach (var encargado in Model.ListaEncargado){
+                        <option value="@encargado.Id">@encargado.Nombre</option>
+
+                    }
+                   
                 </select>
             </div>  
         
