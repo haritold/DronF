@@ -28,9 +28,7 @@ namespace Drone.App.Frontend
         {
             services.AddRazorPages();
             /// ojo con esto jejej
-            // services.AddScoped<IRepositorioCliente, RepositorioCliente>();
-            // services.AddScoped<IRepositorioEncargado, RepositorioEncargado>();
-
+        
             services.AddSingleton<IRepositorioCliente, RepositorioCliente>();
             services.AddSingleton<IRepositorioEncargado, RepositorioEncargado>();
             services.AddSingleton<Persistencia.AppContext>();

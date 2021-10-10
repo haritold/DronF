@@ -16,6 +16,12 @@
             <td>@cliente.Telefono</td>
             <td>@cliente.Correo</td>
             <td>@cliente.Direccion</td>
+
+            <td>
+                <a class="btn btn-primary table-btn" asp-page="./Edit" asp-route-saludoId="@cliente.Id">
+                <i class="fas fa-address-book fa-lg" aria-hidden="true"></i>
+                </a>
+            </td>
         </tr>
         
     }}
