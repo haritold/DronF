@@ -270,3 +270,4 @@ D:\Desktop\Drone Local Repo\DronF\Drone.App\Drone.App.Frontend\obj\Debug\netcore
 D:\Desktop\Drone Local Repo\DronF\Drone.App\Drone.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\DroneViews\vistasEmpresa\opcionesEmpresa.cshtml.g.cs
 D:\Desktop\Drone Local Repo\DronF\Drone.App\Drone.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\DroneViews\vistasEncargado\loginEncargado.cshtml.g.cs
 D:\Desktop\Drone Local Repo\DronF\Drone.App\Drone.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\DroneViews\vistasEncargado\pedidosEncargados.cshtml.g.cs
+D:\Desktop\Drone Local Repo\DronF\Drone.App\Drone.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\DroneViews\vistasEncargado\registroEstados.cshtml.g.cs

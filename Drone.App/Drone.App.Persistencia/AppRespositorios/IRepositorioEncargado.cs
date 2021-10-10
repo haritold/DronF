@@ -5,7 +5,7 @@ namespace Drone.App.Persistencia
 {
     public interface IRepositorioEncargado
     {
-        Encargado Add(Encargado nuevoEncargado);
+        Encargado Add(Encargado encargado);
 
         Encargado GetEncargadoPorId(int encargadoId);
 
