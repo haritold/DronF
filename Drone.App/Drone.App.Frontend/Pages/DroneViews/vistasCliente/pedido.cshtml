@@ -35,29 +35,46 @@
 <!-- Pedidos -->
 <div class="row justify-content-center">
 
-    <form class="row g-3">
+    <form method="post" class="row g-3">
+        
         <div class="col-12">
             <h1>Pedidos</h1>
         </div>
-        <div class="col-md-3">
-                <label for="inputState" class="form-label">Productos</label>
-                <select id="inputState" class="form-select">
-                <option selected>Seleccione los productos</option>
 
-                     @{foreach (var producto in Model.Productos)
+        <div class="col-md-3">
+
+                <label for="inputState" class="form-label">Productos</label>
+
+                <select name= "selectedProduct" class="form-select">
+
+                    <option >Seleccione los productos</option>
+
+                    @{foreach (var producto in Model.Productos)
                     {
-                        <option value="@producto.Id">@producto.Nombre</option>
+                        <option value="@producto.Nombre">@producto.Nombre</option>
                     }}
 
                 </select>
+
         </div>
+
             <div class="col-md-3">
-                <label for="inputState" class="form-label">Cantidad</label>
-                <input class="form-control form-control-sm" type="text" placeholder="Digite la cantidad" aria-label=".form-control-sm example">
-        </div>
+                <select name= "cantidadProductos" class="form-select">
+
+                    <option selected>Seleccione la cantidad</option>
+                    <option value= "1"> 1</option>
+                    <option value= "2"> 2</option>
+                    <option value= "3"> 3</option>
+                    <option value= "4"> 3</option>
+                    <option value= "5"> 3</option>
+
+                </select>
+            </div>
+
             <div class="col-auto">
                 <button type="submit" class="btn btn-primary mb-3">Agregar a la lista</button>
-        </div>
+            </div>
+
     </form>
 
 <!-- tabla -->
@@ -74,13 +91,15 @@
                 </tr>
             </thead>
         <tbody>
+
             <tr>
             <th scope="row">1</th>
-            <td>CPU ROG 2451</td>
+            <td>Whatever</td>
             <td>1</td>
             <td align="right">2.500.000</td>
             <td align="right">2.500.000</td>
             </tr>
+
             <tr>
             <th scope="row">2</th>
             <td>Ratón inalámbrico</td>
@@ -88,6 +107,7 @@
             <td align="right">40.000</td>
             <td align="right">80.000</td>
             </tr>
+
             <tr>
             <th scope="row">3</th>
             <td>Laptop HP 15</td>

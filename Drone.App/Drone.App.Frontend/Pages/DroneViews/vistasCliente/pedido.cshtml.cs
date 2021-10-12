@@ -1,3 +1,6 @@
+using System.Net.Cache;
+using System.Net.Http.Headers;
+using System.Net.Http;
 using System.IO;
 using System.Globalization;
 using System.Collections;
@@ -17,7 +20,15 @@ namespace Drone.App.Frontend.Pages
     {
         private readonly IRepositorioProducto repositorioProducto;
 
+
+        [BindProperty]
         public IEnumerable<Producto> Productos{get; set;}
+
+        [BindProperty]
+        public IEnumerable<Producto> Carrito{get; set;}
+
+        [BindProperty]
+        public int cantidad {get; set;}
 
         public pedidoModel(IRepositorioProducto repositorioProducto)
         {
@@ -27,6 +38,18 @@ namespace Drone.App.Frontend.Pages
         public void OnGet()
         {
             Productos=repositorioProducto.GetAll();
+        }
+
+        public IActionResult OnPost()
+        {
+            var producS = Request.Form["selectedProduct"];
+            // repositorioProducto.AddToCarrito(producS);
+
+            var cantidad = Request.Form["cantidadProductos"];
+    
+            Console.WriteLine(producS);
+
+            return Page();
         }
     }
 }

@@ -9,6 +9,8 @@ namespace Drone.App.Persistencia
         ///PSEUDO DATABASE
 
         List<Producto> productos;
+        List<Producto> carrito;
+        
 
         public RepositorioProducto()
         {
@@ -19,8 +21,11 @@ namespace Drone.App.Persistencia
                 new Producto{Id=3, Nombre="BT Speaker", Precio=250000},
                 new Producto{Id=4, Nombre="Samsung Galaxy", Precio=450000},
                 new Producto{Id=5, Nombre="Cortana", Precio=500000},
-               
             };
+
+            carrito = new List<Producto>();
+
+            
         }
         
         ///READ
@@ -28,6 +33,15 @@ namespace Drone.App.Persistencia
         public IEnumerable<Producto> GetAll()
         {
             return productos;
+        }
+
+        
+        //CREATE ADD
+        public Producto AddToCarrito(Producto productoItem)
+        {
+            productoItem.Id = carrito.Max(r => r.Id) + 1;
+            carrito.Add(productoItem);
+            return productoItem;
         }
 
 
