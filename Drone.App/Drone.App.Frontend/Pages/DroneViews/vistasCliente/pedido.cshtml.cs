@@ -18,38 +18,27 @@ namespace Drone.App.Frontend.Pages
 {
     public class pedidoModel : PageModel
     {
-        private readonly IRepositorioProducto repositorioProducto;
+        private readonly IRepositorioPedido repositorioPedido;
 
+        public IEnumerable<Producto> Inventario{get; set;}
 
-        [BindProperty]
-        public IEnumerable<Producto> Productos{get; set;}
-
-        [BindProperty]
-        public IEnumerable<Producto> Carrito{get; set;}
-
-        [BindProperty]
-        public int cantidad {get; set;}
-
-        public pedidoModel(IRepositorioProducto repositorioProducto)
+        public pedidoModel(IRepositorioPedido repositorioPedido)
         {
-            this.repositorioProducto=repositorioProducto;
+            this.repositorioPedido=repositorioPedido;
         }
 
+
+        ///ONGET
         public void OnGet()
         {
-            Productos=repositorioProducto.GetAll();
+            Inventario=repositorioPedido.GetAllInventario();
         }
 
-        public IActionResult OnPost()
-        {
-            var producS = Request.Form["selectedProduct"];
-            // repositorioProducto.AddToCarrito(producS);
 
-            var cantidad = Request.Form["cantidadProductos"];
-    
-            Console.WriteLine(producS);
 
-            return Page();
-        }
+
+
+        ///ONPOST
+       
     }
 }

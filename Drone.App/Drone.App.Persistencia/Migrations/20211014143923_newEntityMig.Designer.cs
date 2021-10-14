@@ -4,14 +4,16 @@ using Drone.App.Persistencia;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 namespace Drone.App.Persistencia.Migrations
 {
     [DbContext(typeof(AppContext))]
-    partial class AppContextModelSnapshot : ModelSnapshot
+    [Migration("20211014143923_newEntityMig")]
+    partial class newEntityMig
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -53,8 +55,8 @@ namespace Drone.App.Persistencia.Migrations
 
                     b.Property<string>("PasswordClie")
                         .IsRequired()
-                        .HasMaxLength(10)
-                        .HasColumnType("nvarchar(10)");
+                        .HasMaxLength(12)
+                        .HasColumnType("nvarchar(12)");
 
                     b.Property<string>("Telefono")
                         .IsRequired()
@@ -203,6 +205,9 @@ namespace Drone.App.Persistencia.Migrations
 
                     b.Property<int?>("PedidoId")
                         .HasColumnType("int");
+
+                    b.Property<double>("Precio")
+                        .HasColumnType("float");
 
                     b.HasKey("Id");
 

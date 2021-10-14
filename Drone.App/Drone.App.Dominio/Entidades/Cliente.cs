@@ -25,8 +25,7 @@ namespace Drone.App.Dominio
         [Required, StringLength(35)]
         public string Direccion {get; set;}
 
-        [Required, StringLength(12)]
+        [Required, StringLength(10)]
         public string PasswordClie {get; set;}
-
     }
 }

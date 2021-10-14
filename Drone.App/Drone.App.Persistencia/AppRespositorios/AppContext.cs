@@ -9,8 +9,10 @@ namespace Drone.App.Persistencia
         public DbSet<Cliente> Clientes {get; set;}
         public DbSet<Encargado> Encargados {get; set;}
         public DbSet<Pedido> Pedidos {get; set;}
+        public DbSet<Producto> Productos {get; set;}
         public DbSet<Estado> Estados {get; set;}
         public DbSet<Empresa> Empresas {get; set;}
+
         
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder){
