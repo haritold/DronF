@@ -9,16 +9,8 @@ namespace Drone.App.Persistencia
     public class RepositorioPedido:IRepositorioPedido
     {
 
-        ///PSEUDO DATABASE
         List<Producto> inventario;
-
-        public IEnumerable<Producto> GetAllInventario()
-        {
-            return inventario;
-        }
-
-
-
+        List<Producto> carrito;
 
         ///------------------------------------------------
 
@@ -30,7 +22,6 @@ namespace Drone.App.Persistencia
         /// <summary>
         /// </summary>
         /// <param name="appContext"></param>
-
 
         /// APPCONTEXT
         public RepositorioPedido(AppContext appContext)
@@ -45,9 +36,17 @@ namespace Drone.App.Persistencia
                 new Producto{Id=4, Nombre="Samsung Galaxy", Precio=450000},
                 new Producto{Id=5, Nombre="Cortana", Precio=500000},
             };
-        }
 
-        /// CREATE
+            carrito = new List<Producto>()
+            {
+                new Producto{Id=0, Nombre="Prueba", Precio=1000}     
+            };
+
+        }
+        
+    
+
+        /// CREATE- ADD
         public Pedido AddPedido(Pedido pedido)
         {
             var pedidoInsertado = _appContext.Pedidos.Add(pedido);
@@ -123,13 +122,29 @@ namespace Drone.App.Persistencia
 
         }
 
-        
 
+        ///PSEUDODATABASE METHODS
+        public IEnumerable<Producto> GetAllInventario()
+        {
+            return inventario;
+        }
 
-        
+        public Producto AddToCarrito(Producto pedidoItem)
+        {
+            // pedidoItem.Id = carrito.Max(r => r.Id) + 1;
+            carrito.Add(pedidoItem);
+            return pedidoItem;
+        }
 
+        public IEnumerable<Producto> GetAllCarrito()
+        {
+            return carrito;
+        }
 
-
+        public Producto GetProductoPorId(int productoId)
+        {
+            return inventario.SingleOrDefault(p => p.Id == productoId);
+        }
 
     }
 }

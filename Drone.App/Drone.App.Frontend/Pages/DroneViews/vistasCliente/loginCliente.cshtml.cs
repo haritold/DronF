@@ -19,7 +19,6 @@ namespace Drone.App.Frontend.Pages
         private readonly IRepositorioCliente repositorioCliente;
 
         [BindProperty]
-
         public Cliente Cliente {get; set;}
 
         public loginClienteModel(IRepositorioCliente repositorioCliente)
@@ -27,6 +26,8 @@ namespace Drone.App.Frontend.Pages
             this.repositorioCliente=repositorioCliente;
         }
 
+
+        ///ONGET
         public IActionResult OnGet(int? clienteId)
         {
             if(clienteId.HasValue)
@@ -46,12 +47,13 @@ namespace Drone.App.Frontend.Pages
             {
                 return Page();
             }
-
-            
         }
 
-        public IActionResult OnPost()
+
+        ///ONPOST
+        public IActionResult OnPostButton1()
         {
+            
             if(!ModelState.IsValid)
             {
                 return Page();
@@ -64,9 +66,31 @@ namespace Drone.App.Frontend.Pages
             {
                 repositorioCliente.AddCliente(Cliente);
             }
-            return Page();
-
+            return RedirectToPage("./opcionesCliente");
         }
+
+        public IActionResult OnPostButton2()
+        {
+            var cedulaC = repositorioCliente.GetClientePorCedula(Cliente.Cedula);
+            var password = repositorioCliente.GetClientePorPass(Cliente.PasswordClie);
+
+            if(cedulaC != null && password != null)
+            {
+                Console.WriteLine("You are in");
+                return RedirectToPage("./opcionesCliente");
+                
+            }
+            else
+            {
+                Console.WriteLine("Try again");
+                return Page();
+            }
+            
+            
+        }
+
+
+
 
 
     }

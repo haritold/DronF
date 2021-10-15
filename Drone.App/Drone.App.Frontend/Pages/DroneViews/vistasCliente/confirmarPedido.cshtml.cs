@@ -5,10 +5,14 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
+using Drone.App.Dominio;
+using Drone.App.Persistencia;
+
 namespace Drone.App.Frontend.Pages
 {
-    public class opcionesClienteModel : PageModel
+    public class confirmarPedidoModel : PageModel
     {
+        
         public void OnGet()
         {
             

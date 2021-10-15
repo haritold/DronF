@@ -42,6 +42,16 @@ namespace Drone.App.Persistencia
             return _appContext.Clientes.SingleOrDefault(c => c.Id == clienteId);
         }
 
+        public Cliente GetClientePorCedula(string cedulaCliente)
+        {
+            return _appContext.Clientes.SingleOrDefault(c => c.Cedula == cedulaCliente );
+        }
+
+        public Cliente GetClientePorPass(string passwordCliente)
+        {
+            return _appContext.Clientes.SingleOrDefault(c => c.PasswordClie == passwordCliente);
+        }
+
         ///UPDATE
 
         public Cliente Update(Cliente clienteActualizado)
@@ -62,6 +72,13 @@ namespace Drone.App.Persistencia
             }
             return cliente;
         }
+
+        ///AUTHENTICATION
+        // public Cliente ChecKAuth(int cedulaCliente, string passwordCliente )
+        // {
+        //     return cliente= _appContext.Clientes.SingleOrDefault(c => c.Cedula == cedulaCliente && c.PasswordClie == passwordCliente);   
+
+        // }
 
  
     }

@@ -1,9 +1,5 @@
 using System.Net.Cache;
-using System.Net.Http.Headers;
-using System.Net.Http;
-using System.IO;
 using System.Globalization;
-using System.Collections;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -18,27 +14,58 @@ namespace Drone.App.Frontend.Pages
 {
     public class pedidoModel : PageModel
     {
-        private readonly IRepositorioPedido repositorioPedido;
+        private static IRepositorioPedido _repoPedido = new RepositorioPedido(new Persistencia.AppContext()); 
 
-        public IEnumerable<Producto> Inventario{get; set;}
+        [BindProperty]
+        public IEnumerable<Producto> InventarioProd{get; set;}
 
-        public pedidoModel(IRepositorioPedido repositorioPedido)
-        {
-            this.repositorioPedido=repositorioPedido;
-        }
+        [BindProperty]
+        public IEnumerable<Producto> Carrito{get; set;}
 
-
-        ///ONGET
         public void OnGet()
         {
-            Inventario=repositorioPedido.GetAllInventario();
+            InventarioProd= _repoPedido.GetAllInventario();
+            Carrito= _repoPedido.GetAllCarrito();
+        }
+
+        public IActionResult OnPost()
+        {
+            var productoSel = Request.Form["selectedProduct"];
+            int idProd = Convert.ToInt32(productoSel);
+
+            var produ = _repoPedido.GetProductoPorId(idProd);
+
+            _repoPedido.AddToCarrito(produ);
+
+            Carrito= _repoPedido.GetAllCarrito();
+            InventarioProd = _repoPedido.GetAllInventario();
+
+            // AddPedidoConProductos();
+
+            return Page();
         }
 
 
 
 
+        private static void AddPedidoConProductos()
+        {
+            DateTime localDate = DateTime.Now;
+            DateTime myTime = localDate;
 
-        ///ONPOST
-       
+            Console.WriteLine(myTime.ToString());
+        
+            var pedido = new Pedido
+            {
+                Fecha = myTime,
+
+                Productos =_repoPedido.GetAllCarrito().ToList()
+
+            };
+            _repoPedido.AddPedido(pedido);
+        }
+
+
+
     }
 }

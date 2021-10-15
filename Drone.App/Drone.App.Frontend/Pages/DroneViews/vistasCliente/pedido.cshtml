@@ -47,11 +47,9 @@
 
                 <select name= "selectedProduct" class="form-select">
 
-                
-
                     <option>Seleccione los productos</option>
 
-                    @{foreach (var producto in Model.Inventario)
+                    @{foreach (var producto in Model.InventarioProd)
                     {
                         <option value="@producto.Id">@producto.Nombre</option>
                     }}
@@ -82,33 +80,42 @@
 <!-- tabla -->
 
     <div class="table-responsive row g-3 gap-2 col-md-10 mx-auto"> 
-        <table class="table table-secondary table-striped col-md-2 order-1" id= "resumenTable">
+        <table method="get" class="table table-secondary table-striped col-md-2 order-1" id= "resumenTable">
             <thead>
                 <tr>
                 <th scope="col">#</th>
                 <th scope="col">Producto</th>
                 <th scope="col">Cantidad</th>
                 <th scope="col">Precio unitario</th>
-                <th scope="col">Total</th>
+                
                 </tr>
             </thead>
         <tbody>
 
-            <tr>
-            <th scope="row">1</th>
-            <td>Whatever</td>
-            <td>1</td>
-            <td align="right">2.500.000</td>
-            <td align="right">2.500.000</td>
-            </tr>
+            @{foreach (var p in Model.Carrito)
+            {
+                <tr>
+                
+                    <th scope="row">@p.Id</th>
+                    <td>@p.Nombre</td>
+                    <td>1</td>
+                    <td align="right">@p.Precio</td>
+                    
+                </tr>
+                
+            }}   
 
         </tbody>
     
         </table>
     </div>
 
+
+
+
+
 	<div class="d-grid gap-3 col-5 d-md-flex justify-content-md-center">
-        <button type="button" class="btn btn-primary">Confirmar pedido</button>
+        <a asp-page="./confirmarPedido" class="btn btn-primary"  >Confirmar pedido</a>
         <button type="button" class="btn btn-primary">Eliminar pedido</button>
 	</div>
 

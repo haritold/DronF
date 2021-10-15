@@ -7,18 +7,25 @@ namespace Drone.App.Persistencia
 {
     public interface IRepositorioPedido
     {
-        IEnumerable<Pedido> GetAllPedidos();
-        Pedido AddPedido (Pedido nuevoPedido);
-        void DeletePedido(int idPedido);
+        //READ
         Pedido GetPedido(int pedidoId);
+        IEnumerable<Pedido> GetAllPedidos();
+
+        Pedido AddPedido (Pedido nuevoPedido);
+        // void AddProductosPedido(int idPedido);
+        void DeletePedido(int idPedido);
+        
         Cliente AsignarCliente(int idPedido, int idCliente);
         Encargado AsignarEncargado(int idPedido, int idEncargado );
-        IEnumerable<Producto> GetProductosPedido(int idPedido);
-
-
+        
         //PSEUDO DATABASE METHODS
 
         IEnumerable<Producto> GetAllInventario();
+
+        Producto GetProductoPorId(int productoId);
+        
+        IEnumerable<Producto> GetAllCarrito();
+        Producto AddToCarrito (Producto pedidoItem);
 
     }
 }
