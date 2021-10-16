@@ -33,6 +33,7 @@ namespace Drone.App.Frontend
             services.AddSingleton<IRepositorioEncargado, RepositorioEncargado>();
             services.AddSingleton<IRepositorioProducto, RepositorioProducto>();
             services.AddSingleton<IRepositorioPedido, RepositorioPedido>();
+            services.AddSingleton<IRepositorioEmpresa, RepositorioEmpresa>();
             services.AddSingleton<Persistencia.AppContext>();
         }
 

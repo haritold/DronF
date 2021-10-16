@@ -73,14 +73,6 @@ namespace Drone.App.Persistencia
             return cliente;
         }
 
-        ///AUTHENTICATION
-        // public Cliente ChecKAuth(int cedulaCliente, string passwordCliente )
-        // {
-        //     return cliente= _appContext.Clientes.SingleOrDefault(c => c.Cedula == cedulaCliente && c.PasswordClie == passwordCliente);   
-
-        // }
-
- 
     }
 }
 
