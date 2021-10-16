@@ -88,3 +88,377 @@ C:\TheDroneProject\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\Drone.Ap
 C:\TheDroneProject\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\Drone.App.Dominio.pdb
 C:\TheDroneProject\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\Drone.App.Persistencia.pdb
 C:\TheDroneProject\Drone.App\Drone.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\DroneViews\asignarPedidos.cshtml.g.cs
+D:\Desktop\DroneRepo\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Desktop\DroneRepo\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Desktop\DroneRepo\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Desktop\DroneRepo\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\Drone.App.Frontend.exe
+D:\Desktop\DroneRepo\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\Drone.App.Frontend.deps.json
+D:\Desktop\DroneRepo\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\Drone.App.Frontend.runtimeconfig.json
+D:\Desktop\DroneRepo\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\Drone.App.Frontend.runtimeconfig.dev.json
+D:\Desktop\DroneRepo\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\Drone.App.Frontend.dll
+D:\Desktop\DroneRepo\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\Drone.App.Frontend.pdb
+D:\Desktop\DroneRepo\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\Drone.App.Frontend.Views.dll
+D:\Desktop\DroneRepo\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\Drone.App.Frontend.Views.pdb
+D:\Desktop\DroneRepo\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Desktop\DroneRepo\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Desktop\DroneRepo\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Desktop\DroneRepo\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Desktop\DroneRepo\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Desktop\DroneRepo\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Desktop\DroneRepo\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Desktop\DroneRepo\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Desktop\DroneRepo\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Desktop\DroneRepo\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Desktop\DroneRepo\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Desktop\DroneRepo\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Desktop\DroneRepo\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Desktop\DroneRepo\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Desktop\DroneRepo\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Desktop\DroneRepo\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Desktop\DroneRepo\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Desktop\DroneRepo\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Desktop\DroneRepo\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Desktop\DroneRepo\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Desktop\DroneRepo\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Desktop\DroneRepo\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Desktop\DroneRepo\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Desktop\DroneRepo\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Desktop\DroneRepo\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Desktop\DroneRepo\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Desktop\DroneRepo\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Desktop\DroneRepo\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Desktop\DroneRepo\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Desktop\DroneRepo\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Desktop\DroneRepo\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Desktop\DroneRepo\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Desktop\DroneRepo\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Desktop\DroneRepo\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Desktop\DroneRepo\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Desktop\DroneRepo\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Desktop\DroneRepo\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Desktop\DroneRepo\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Desktop\DroneRepo\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Desktop\DroneRepo\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Desktop\DroneRepo\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\Drone.App.Dominio.dll
+D:\Desktop\DroneRepo\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\Drone.App.Persistencia.dll
+D:\Desktop\DroneRepo\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\Drone.App.Dominio.pdb
+D:\Desktop\DroneRepo\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\Drone.App.Persistencia.pdb
+D:\Desktop\DroneRepo\DronF\Drone.App\Drone.App.Frontend\obj\Debug\netcoreapp3.1\Drone.App.Frontend.csprojAssemblyReference.cache
+D:\Desktop\DroneRepo\DronF\Drone.App\Drone.App.Frontend\obj\Debug\netcoreapp3.1\Drone.App.Frontend.MvcApplicationPartsAssemblyInfo.cache
+D:\Desktop\DroneRepo\DronF\Drone.App\Drone.App.Frontend\obj\Debug\netcoreapp3.1\Drone.App.Frontend.RazorAssemblyInfo.cache
+D:\Desktop\DroneRepo\DronF\Drone.App\Drone.App.Frontend\obj\Debug\netcoreapp3.1\Drone.App.Frontend.RazorAssemblyInfo.cs
+D:\Desktop\DroneRepo\DronF\Drone.App\Drone.App.Frontend\obj\Debug\netcoreapp3.1\Drone.App.Frontend.AssemblyInfoInputs.cache
+D:\Desktop\DroneRepo\DronF\Drone.App\Drone.App.Frontend\obj\Debug\netcoreapp3.1\Drone.App.Frontend.AssemblyInfo.cs
+D:\Desktop\DroneRepo\DronF\Drone.App\Drone.App.Frontend\obj\Debug\netcoreapp3.1\Drone.App.Frontend.TagHelpers.input.cache
+D:\Desktop\DroneRepo\DronF\Drone.App\Drone.App.Frontend\obj\Debug\netcoreapp3.1\Drone.App.Frontend.TagHelpers.output.cache
+D:\Desktop\DroneRepo\DronF\Drone.App\Drone.App.Frontend\obj\Debug\netcoreapp3.1\Drone.App.Frontend.RazorCoreGenerate.cache
+D:\Desktop\DroneRepo\DronF\Drone.App\Drone.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\DroneViews\asignarPedidos.cshtml.g.cs
+D:\Desktop\DroneRepo\DronF\Drone.App\Drone.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\DroneViews\conexionBD.cshtml.g.cs
+D:\Desktop\DroneRepo\DronF\Drone.App\Drone.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\DroneViews\historialCliente.cshtml.g.cs
+D:\Desktop\DroneRepo\DronF\Drone.App\Drone.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\DroneViews\loginCliente.cshtml.g.cs
+D:\Desktop\DroneRepo\DronF\Drone.App\Drone.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\DroneViews\loginEmpresa.cshtml.g.cs
+D:\Desktop\DroneRepo\DronF\Drone.App\Drone.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\DroneViews\loginEncargado.cshtml.g.cs
+D:\Desktop\DroneRepo\DronF\Drone.App\Drone.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\DroneViews\opcionesCliente.cshtml.g.cs
+D:\Desktop\DroneRepo\DronF\Drone.App\Drone.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\DroneViews\opcionesEmpresa.cshtml.g.cs
+D:\Desktop\DroneRepo\DronF\Drone.App\Drone.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\DroneViews\pedido.cshtml.g.cs
+D:\Desktop\DroneRepo\DronF\Drone.App\Drone.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\DroneViews\pedidosEncargados.cshtml.g.cs
+D:\Desktop\DroneRepo\DronF\Drone.App\Drone.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\DroneViews\rolesPage.cshtml.g.cs
+D:\Desktop\DroneRepo\DronF\Drone.App\Drone.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+D:\Desktop\DroneRepo\DronF\Drone.App\Drone.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+D:\Desktop\DroneRepo\DronF\Drone.App\Drone.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+D:\Desktop\DroneRepo\DronF\Drone.App\Drone.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\Desktop\DroneRepo\DronF\Drone.App\Drone.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Desktop\DroneRepo\DronF\Drone.App\Drone.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\Desktop\DroneRepo\DronF\Drone.App\Drone.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\Desktop\DroneRepo\DronF\Drone.App\Drone.App.Frontend\obj\Debug\netcoreapp3.1\Drone.App.Frontend.RazorTargetAssemblyInfo.cache
+D:\Desktop\DroneRepo\DronF\Drone.App\Drone.App.Frontend\obj\Debug\netcoreapp3.1\Drone.App.Frontend.RazorTargetAssemblyInfo.cs
+D:\Desktop\DroneRepo\DronF\Drone.App\Drone.App.Frontend\obj\Debug\netcoreapp3.1\Drone.App.Frontend.Views.pdb
+D:\Desktop\DroneRepo\DronF\Drone.App\Drone.App.Frontend\obj\Debug\netcoreapp3.1\Drone.App.Frontend.csproj.CopyComplete
+D:\Desktop\DroneRepo\DronF\Drone.App\Drone.App.Frontend\obj\Debug\netcoreapp3.1\staticwebassets\Drone.App.Frontend.StaticWebAssets.Manifest.cache
+D:\Desktop\DroneRepo\DronF\Drone.App\Drone.App.Frontend\obj\Debug\netcoreapp3.1\staticwebassets\Drone.App.Frontend.StaticWebAssets.xml
+D:\Desktop\DroneRepo\DronF\Drone.App\Drone.App.Frontend\obj\Debug\netcoreapp3.1\Drone.App.Frontend.dll
+D:\Desktop\DroneRepo\DronF\Drone.App\Drone.App.Frontend\obj\Debug\netcoreapp3.1\Drone.App.Frontend.pdb
+D:\Desktop\Drone Local Repo\DronF\Drone.App\Drone.App.Frontend\obj\Debug\netcoreapp3.1\Drone.App.Frontend.csprojAssemblyReference.cache
+D:\Desktop\Drone Local Repo\DronF\Drone.App\Drone.App.Frontend\obj\Debug\netcoreapp3.1\Drone.App.Frontend.MvcApplicationPartsAssemblyInfo.cache
+D:\Desktop\Drone Local Repo\DronF\Drone.App\Drone.App.Frontend\obj\Debug\netcoreapp3.1\Drone.App.Frontend.RazorAssemblyInfo.cache
+D:\Desktop\Drone Local Repo\DronF\Drone.App\Drone.App.Frontend\obj\Debug\netcoreapp3.1\Drone.App.Frontend.RazorAssemblyInfo.cs
+D:\Desktop\Drone Local Repo\DronF\Drone.App\Drone.App.Frontend\obj\Debug\netcoreapp3.1\Drone.App.Frontend.AssemblyInfoInputs.cache
+D:\Desktop\Drone Local Repo\DronF\Drone.App\Drone.App.Frontend\obj\Debug\netcoreapp3.1\Drone.App.Frontend.AssemblyInfo.cs
+D:\Desktop\Drone Local Repo\DronF\Drone.App\Drone.App.Frontend\obj\Debug\netcoreapp3.1\Drone.App.Frontend.TagHelpers.input.cache
+D:\Desktop\Drone Local Repo\DronF\Drone.App\Drone.App.Frontend\obj\Debug\netcoreapp3.1\Drone.App.Frontend.TagHelpers.output.cache
+D:\Desktop\Drone Local Repo\DronF\Drone.App\Drone.App.Frontend\obj\Debug\netcoreapp3.1\Drone.App.Frontend.RazorCoreGenerate.cache
+D:\Desktop\Drone Local Repo\DronF\Drone.App\Drone.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\DroneViews\conexionBD.cshtml.g.cs
+D:\Desktop\Drone Local Repo\DronF\Drone.App\Drone.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\DroneViews\rolesPage.cshtml.g.cs
+D:\Desktop\Drone Local Repo\DronF\Drone.App\Drone.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+D:\Desktop\Drone Local Repo\DronF\Drone.App\Drone.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+D:\Desktop\Drone Local Repo\DronF\Drone.App\Drone.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+D:\Desktop\Drone Local Repo\DronF\Drone.App\Drone.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\Desktop\Drone Local Repo\DronF\Drone.App\Drone.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Desktop\Drone Local Repo\DronF\Drone.App\Drone.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\Desktop\Drone Local Repo\DronF\Drone.App\Drone.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\Desktop\Drone Local Repo\DronF\Drone.App\Drone.App.Frontend\obj\Debug\netcoreapp3.1\Drone.App.Frontend.RazorTargetAssemblyInfo.cache
+D:\Desktop\Drone Local Repo\DronF\Drone.App\Drone.App.Frontend\obj\Debug\netcoreapp3.1\Drone.App.Frontend.RazorTargetAssemblyInfo.cs
+D:\Desktop\Drone Local Repo\DronF\Drone.App\Drone.App.Frontend\obj\Debug\netcoreapp3.1\Drone.App.Frontend.dll
+D:\Desktop\Drone Local Repo\DronF\Drone.App\Drone.App.Frontend\obj\Debug\netcoreapp3.1\Drone.App.Frontend.pdb
+D:\Desktop\Drone Local Repo\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Desktop\Drone Local Repo\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Desktop\Drone Local Repo\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Desktop\Drone Local Repo\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\Drone.App.Frontend.exe
+D:\Desktop\Drone Local Repo\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\Drone.App.Frontend.deps.json
+D:\Desktop\Drone Local Repo\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\Drone.App.Frontend.runtimeconfig.json
+D:\Desktop\Drone Local Repo\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\Drone.App.Frontend.runtimeconfig.dev.json
+D:\Desktop\Drone Local Repo\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\Drone.App.Frontend.dll
+D:\Desktop\Drone Local Repo\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\Drone.App.Frontend.pdb
+D:\Desktop\Drone Local Repo\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\Drone.App.Frontend.Views.dll
+D:\Desktop\Drone Local Repo\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\Drone.App.Frontend.Views.pdb
+D:\Desktop\Drone Local Repo\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Desktop\Drone Local Repo\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Desktop\Drone Local Repo\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Desktop\Drone Local Repo\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Desktop\Drone Local Repo\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Desktop\Drone Local Repo\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Desktop\Drone Local Repo\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Desktop\Drone Local Repo\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Desktop\Drone Local Repo\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Desktop\Drone Local Repo\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Desktop\Drone Local Repo\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Desktop\Drone Local Repo\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Desktop\Drone Local Repo\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Desktop\Drone Local Repo\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Desktop\Drone Local Repo\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Desktop\Drone Local Repo\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Desktop\Drone Local Repo\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Desktop\Drone Local Repo\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Desktop\Drone Local Repo\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Desktop\Drone Local Repo\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Desktop\Drone Local Repo\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Desktop\Drone Local Repo\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Desktop\Drone Local Repo\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Desktop\Drone Local Repo\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Desktop\Drone Local Repo\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Desktop\Drone Local Repo\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Desktop\Drone Local Repo\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Desktop\Drone Local Repo\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Desktop\Drone Local Repo\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Desktop\Drone Local Repo\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Desktop\Drone Local Repo\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Desktop\Drone Local Repo\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Desktop\Drone Local Repo\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Desktop\Drone Local Repo\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Desktop\Drone Local Repo\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Desktop\Drone Local Repo\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Desktop\Drone Local Repo\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Desktop\Drone Local Repo\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Desktop\Drone Local Repo\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Desktop\Drone Local Repo\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Desktop\Drone Local Repo\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\Drone.App.Dominio.dll
+D:\Desktop\Drone Local Repo\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\Drone.App.Persistencia.dll
+D:\Desktop\Drone Local Repo\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\Drone.App.Dominio.pdb
+D:\Desktop\Drone Local Repo\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\Drone.App.Persistencia.pdb
+D:\Desktop\Drone Local Repo\DronF\Drone.App\Drone.App.Frontend\obj\Debug\netcoreapp3.1\Drone.App.Frontend.Views.pdb
+D:\Desktop\Drone Local Repo\DronF\Drone.App\Drone.App.Frontend\obj\Debug\netcoreapp3.1\Drone.App.Frontend.csproj.CopyComplete
+D:\Desktop\Drone Local Repo\DronF\Drone.App\Drone.App.Frontend\obj\Debug\netcoreapp3.1\staticwebassets\Drone.App.Frontend.StaticWebAssets.Manifest.cache
+D:\Desktop\Drone Local Repo\DronF\Drone.App\Drone.App.Frontend\obj\Debug\netcoreapp3.1\staticwebassets\Drone.App.Frontend.StaticWebAssets.xml
+D:\Desktop\Drone Local Repo\DronF\Drone.App\Drone.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\DroneViews\vistasCliente\historialCliente.cshtml.g.cs
+D:\Desktop\Drone Local Repo\DronF\Drone.App\Drone.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\DroneViews\vistasCliente\loginCliente.cshtml.g.cs
+D:\Desktop\Drone Local Repo\DronF\Drone.App\Drone.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\DroneViews\vistasCliente\opcionesCliente.cshtml.g.cs
+D:\Desktop\Drone Local Repo\DronF\Drone.App\Drone.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\DroneViews\vistasCliente\pedido.cshtml.g.cs
+D:\Desktop\Drone Local Repo\DronF\Drone.App\Drone.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\DroneViews\vistasEmpresa\asignarPedidos.cshtml.g.cs
+D:\Desktop\Drone Local Repo\DronF\Drone.App\Drone.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\DroneViews\vistasEmpresa\editarEncargado.cshtml.g.cs
+D:\Desktop\Drone Local Repo\DronF\Drone.App\Drone.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\DroneViews\vistasEmpresa\infoE.cshtml.g.cs
+D:\Desktop\Drone Local Repo\DronF\Drone.App\Drone.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\DroneViews\vistasEmpresa\loginEmpresa.cshtml.g.cs
+D:\Desktop\Drone Local Repo\DronF\Drone.App\Drone.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\DroneViews\vistasEmpresa\opcionesEmpresa.cshtml.g.cs
+D:\Desktop\Drone Local Repo\DronF\Drone.App\Drone.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\DroneViews\vistasEncargado\loginEncargado.cshtml.g.cs
+D:\Desktop\Drone Local Repo\DronF\Drone.App\Drone.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\DroneViews\vistasEncargado\pedidosEncargados.cshtml.g.cs
+D:\Desktop\Drone Local Repo\DronF\Drone.App\Drone.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\DroneViews\vistasEncargado\registroEstados.cshtml.g.cs
+D:\Desktop\Drone Local Repo\DronF\Drone.App\Drone.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\DroneViews\devteam.cshtml.g.cs
+D:\Desktop\Drone Local Repo\DronF\Drone.App\Drone.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\DroneViews\vistasCliente\confirmarPedido.cshtml.g.cs
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\appsettings.json
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\Drone.App.Frontend.exe
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\Drone.App.Frontend.deps.json
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\Drone.App.Frontend.runtimeconfig.json
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\Drone.App.Frontend.runtimeconfig.dev.json
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\Drone.App.Frontend.dll
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\Drone.App.Frontend.pdb
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\Drone.App.Frontend.Views.dll
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\Drone.App.Frontend.Views.pdb
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\Drone.App.Dominio.dll
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\Drone.App.Persistencia.dll
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\Drone.App.Dominio.pdb
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\Drone.App.Persistencia.pdb
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\obj\Debug\netcoreapp3.1\Drone.App.Frontend.csprojAssemblyReference.cache
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\obj\Debug\netcoreapp3.1\Drone.App.Frontend.MvcApplicationPartsAssemblyInfo.cache
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\obj\Debug\netcoreapp3.1\Drone.App.Frontend.RazorAssemblyInfo.cache
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\obj\Debug\netcoreapp3.1\Drone.App.Frontend.RazorAssemblyInfo.cs
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\obj\Debug\netcoreapp3.1\Drone.App.Frontend.AssemblyInfoInputs.cache
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\obj\Debug\netcoreapp3.1\Drone.App.Frontend.AssemblyInfo.cs
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\obj\Debug\netcoreapp3.1\Drone.App.Frontend.TagHelpers.input.cache
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\obj\Debug\netcoreapp3.1\Drone.App.Frontend.TagHelpers.output.cache
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\obj\Debug\netcoreapp3.1\Drone.App.Frontend.RazorCoreGenerate.cache
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\DroneViews\conexionBD.cshtml.g.cs
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\DroneViews\devteam.cshtml.g.cs
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\DroneViews\rolesPage.cshtml.g.cs
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\DroneViews\vistasCliente\confirmarPedido.cshtml.g.cs
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\DroneViews\vistasCliente\historialCliente.cshtml.g.cs
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\DroneViews\vistasCliente\loginCliente.cshtml.g.cs
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\DroneViews\vistasCliente\opcionesCliente.cshtml.g.cs
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\DroneViews\vistasCliente\pedido.cshtml.g.cs
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\DroneViews\vistasEmpresa\asignarPedidos.cshtml.g.cs
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\DroneViews\vistasEmpresa\editarEncargado.cshtml.g.cs
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\DroneViews\vistasEmpresa\infoE.cshtml.g.cs
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\DroneViews\vistasEmpresa\loginEmpresa.cshtml.g.cs
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\DroneViews\vistasEmpresa\opcionesEmpresa.cshtml.g.cs
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\DroneViews\vistasEncargado\loginEncargado.cshtml.g.cs
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\DroneViews\vistasEncargado\pedidosEncargados.cshtml.g.cs
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\DroneViews\vistasEncargado\registroEstados.cshtml.g.cs
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\obj\Debug\netcoreapp3.1\Drone.App.Frontend.RazorTargetAssemblyInfo.cache
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\obj\Debug\netcoreapp3.1\Drone.App.Frontend.RazorTargetAssemblyInfo.cs
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\obj\Debug\netcoreapp3.1\Drone.App.Frontend.Views.pdb
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\obj\Debug\netcoreapp3.1\Drone.App.Frontend.csproj.CopyComplete
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\obj\Debug\netcoreapp3.1\staticwebassets\Drone.App.Frontend.StaticWebAssets.Manifest.cache
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\obj\Debug\netcoreapp3.1\staticwebassets\Drone.App.Frontend.StaticWebAssets.xml
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\obj\Debug\netcoreapp3.1\Drone.App.Frontend.dll
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\obj\Debug\netcoreapp3.1\Drone.App.Frontend.pdb
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\Drone.App.Frontend.StaticWebAssets.xml
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\obj\Debug\netcoreapp3.1\Drone.App.Frontend.MvcApplicationPartsAssemblyInfo.cs
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_LoginPartial.cshtml.g.cs

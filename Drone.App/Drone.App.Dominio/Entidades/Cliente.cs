@@ -1,15 +1,31 @@
+using System.Security.AccessControl;
+using System.ComponentModel.DataAnnotations;
+
 namespace Drone.App.Dominio
 {   //prueba clon1
     public class Cliente
     {
         public int Id {get; set;}
-        public string Nombre {get; set;}
-        public string Apellido {get; set;}
-        public string Cedula {get; set;}
-        public string Telefono {get; set;}
-        public string Correo {get; set;}
-        public string Direccion {get; set;}
-        public string PasswordClie {get; set;}
 
+        [Required, StringLength(35)]
+        public string Nombre {get; set;}
+
+        [Required, StringLength(35)]
+        public string Apellido {get; set;}
+
+        [Required, StringLength(10)]
+        public string Cedula {get; set;}
+
+        [Required, StringLength(10)]
+        public string Telefono {get; set;}
+
+        [Required, StringLength(50)]
+        public string Correo {get; set;}
+
+        [Required, StringLength(35)]
+        public string Direccion {get; set;}
+
+        [Required, StringLength(10)]
+        public string PasswordClie {get; set;}
     }
 }

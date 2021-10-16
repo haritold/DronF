@@ -1,0 +1,7 @@
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Dominio\bin\Release\netstandard2.0\Drone.App.Dominio.deps.json
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Dominio\bin\Release\netstandard2.0\Drone.App.Dominio.dll
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Dominio\bin\Release\netstandard2.0\Drone.App.Dominio.pdb
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Dominio\obj\Release\netstandard2.0\Drone.App.Dominio.AssemblyInfoInputs.cache
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Dominio\obj\Release\netstandard2.0\Drone.App.Dominio.AssemblyInfo.cs
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Dominio\obj\Release\netstandard2.0\Drone.App.Dominio.dll
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Dominio\obj\Release\netstandard2.0\Drone.App.Dominio.pdb

@@ -7,9 +7,17 @@ namespace Drone.App.Persistencia
 {
     public interface IRepositorioCliente
     {
-        ///Cliente AddCliente(Cliente cliente);
+        Cliente AddCliente(Cliente nuevoCliente);
+
+        Cliente GetClientePorId(int clienteId);
 
         IEnumerable<Cliente> GetAll();
+
+        Cliente Update(Cliente clienteActualizado);
+
+        Cliente GetClientePorCedula(string cedulaCliente);
+
+        Cliente GetClientePorPass(string passwordCliente);
 
     }
 

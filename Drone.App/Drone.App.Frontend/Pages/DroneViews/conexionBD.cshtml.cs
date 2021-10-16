@@ -23,6 +23,8 @@ namespace Drone.App.Frontend.Pages
             this.repositorioCliente=repositorioCliente;
         }
         
+        // ONGET
+
         public void OnGet()
         {
             Clientes = repositorioCliente.GetAll();
