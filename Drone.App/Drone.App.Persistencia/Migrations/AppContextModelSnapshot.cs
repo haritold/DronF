@@ -204,6 +204,9 @@ namespace Drone.App.Persistencia.Migrations
                     b.Property<int?>("PedidoId")
                         .HasColumnType("int");
 
+                    b.Property<double>("Precio")
+                        .HasColumnType("float");
+
                     b.HasKey("Id");
 
                     b.HasIndex("PedidoId");

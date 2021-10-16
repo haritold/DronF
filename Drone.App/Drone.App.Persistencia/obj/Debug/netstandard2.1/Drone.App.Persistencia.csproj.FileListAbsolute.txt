@@ -31,3 +31,14 @@ D:\Desktop\Drone Local Repo\DronF\Drone.App\Drone.App.Persistencia\obj\Debug\net
 D:\Desktop\Drone Local Repo\DronF\Drone.App\Drone.App.Persistencia\obj\Debug\netstandard2.1\Drone.App.Persistencia.csproj.CopyComplete
 D:\Desktop\Drone Local Repo\DronF\Drone.App\Drone.App.Persistencia\obj\Debug\netstandard2.1\Drone.App.Persistencia.dll
 D:\Desktop\Drone Local Repo\DronF\Drone.App\Drone.App.Persistencia\obj\Debug\netstandard2.1\Drone.App.Persistencia.pdb
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Persistencia\bin\Debug\netstandard2.1\Drone.App.Persistencia.deps.json
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Persistencia\bin\Debug\netstandard2.1\Drone.App.Persistencia.dll
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Persistencia\bin\Debug\netstandard2.1\Drone.App.Persistencia.pdb
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Persistencia\bin\Debug\netstandard2.1\Drone.App.Dominio.dll
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Persistencia\bin\Debug\netstandard2.1\Drone.App.Dominio.pdb
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Persistencia\obj\Debug\netstandard2.1\Drone.App.Persistencia.csprojAssemblyReference.cache
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Persistencia\obj\Debug\netstandard2.1\Drone.App.Persistencia.AssemblyInfoInputs.cache
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Persistencia\obj\Debug\netstandard2.1\Drone.App.Persistencia.AssemblyInfo.cs
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Persistencia\obj\Debug\netstandard2.1\Drone.App.Persistencia.csproj.CopyComplete
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Persistencia\obj\Debug\netstandard2.1\Drone.App.Persistencia.dll
+D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Persistencia\obj\Debug\netstandard2.1\Drone.App.Persistencia.pdb

@@ -7266,19 +7266,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\USUARIO\\.nuget\\packages\\": {}
+    "C:\\Users\\HAROLD\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Desktop\\Drone Local Repo\\DronF\\Drone.App\\Drone.App.Persistencia\\Drone.App.Persistencia.csproj",
+      "projectUniqueName": "D:\\git-CloneDron\\DronF\\DronF\\Drone.App\\Drone.App.Persistencia\\Drone.App.Persistencia.csproj",
       "projectName": "Drone.App.Persistencia",
-      "projectPath": "D:\\Desktop\\Drone Local Repo\\DronF\\Drone.App\\Drone.App.Persistencia\\Drone.App.Persistencia.csproj",
-      "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
-      "outputPath": "D:\\Desktop\\Drone Local Repo\\DronF\\Drone.App\\Drone.App.Persistencia\\obj\\",
+      "projectPath": "D:\\git-CloneDron\\DronF\\DronF\\Drone.App\\Drone.App.Persistencia\\Drone.App.Persistencia.csproj",
+      "packagesPath": "C:\\Users\\HAROLD\\.nuget\\packages\\",
+      "outputPath": "D:\\git-CloneDron\\DronF\\DronF\\Drone.App\\Drone.App.Persistencia\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\HAROLD\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.1"
@@ -7289,8 +7289,8 @@
       "frameworks": {
         "netstandard2.1": {
           "projectReferences": {
-            "D:\\Desktop\\Drone Local Repo\\DronF\\Drone.App\\Drone.App.Dominio\\Drone.App.Dominio.csproj": {
-              "projectPath": "D:\\Desktop\\Drone Local Repo\\DronF\\Drone.App\\Drone.App.Dominio\\Drone.App.Dominio.csproj"
+            "D:\\git-CloneDron\\DronF\\DronF\\Drone.App\\Drone.App.Dominio\\Drone.App.Dominio.csproj": {
+              "projectPath": "D:\\git-CloneDron\\DronF\\DronF\\Drone.App\\Drone.App.Dominio\\Drone.App.Dominio.csproj"
             }
           }
         }
@@ -7340,7 +7340,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.120\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.117\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -5800,19 +5800,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\USUARIO\\.nuget\\packages\\": {}
+    "C:\\Users\\HAROLD\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Desktop\\Drone Local Repo\\DronF\\Drone.App\\Drone.App.Consola\\Drone.App.Consola.csproj",
+      "projectUniqueName": "D:\\git-CloneDron\\DronF\\DronF\\Drone.App\\Drone.App.Consola\\Drone.App.Consola.csproj",
       "projectName": "Drone.App.Consola",
-      "projectPath": "D:\\Desktop\\Drone Local Repo\\DronF\\Drone.App\\Drone.App.Consola\\Drone.App.Consola.csproj",
-      "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
-      "outputPath": "D:\\Desktop\\Drone Local Repo\\DronF\\Drone.App\\Drone.App.Consola\\obj\\",
+      "projectPath": "D:\\git-CloneDron\\DronF\\DronF\\Drone.App\\Drone.App.Consola\\Drone.App.Consola.csproj",
+      "packagesPath": "C:\\Users\\HAROLD\\.nuget\\packages\\",
+      "outputPath": "D:\\git-CloneDron\\DronF\\DronF\\Drone.App\\Drone.App.Consola\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\HAROLD\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -5823,11 +5823,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\Desktop\\Drone Local Repo\\DronF\\Drone.App\\Drone.App.Dominio\\Drone.App.Dominio.csproj": {
-              "projectPath": "D:\\Desktop\\Drone Local Repo\\DronF\\Drone.App\\Drone.App.Dominio\\Drone.App.Dominio.csproj"
+            "D:\\git-CloneDron\\DronF\\DronF\\Drone.App\\Drone.App.Dominio\\Drone.App.Dominio.csproj": {
+              "projectPath": "D:\\git-CloneDron\\DronF\\DronF\\Drone.App\\Drone.App.Dominio\\Drone.App.Dominio.csproj"
             },
-            "D:\\Desktop\\Drone Local Repo\\DronF\\Drone.App\\Drone.App.Persistencia\\Drone.App.Persistencia.csproj": {
-              "projectPath": "D:\\Desktop\\Drone Local Repo\\DronF\\Drone.App\\Drone.App.Persistencia\\Drone.App.Persistencia.csproj"
+            "D:\\git-CloneDron\\DronF\\DronF\\Drone.App\\Drone.App.Persistencia\\Drone.App.Persistencia.csproj": {
+              "projectPath": "D:\\git-CloneDron\\DronF\\DronF\\Drone.App\\Drone.App.Persistencia\\Drone.App.Persistencia.csproj"
             }
           }
         }
@@ -5863,7 +5863,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.119\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.117\\RuntimeIdentifierGraph.json"
       }
     }
   }
