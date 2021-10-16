@@ -19,6 +19,8 @@ namespace Drone.App.Persistencia
 
         Cliente GetClientePorPass(string passwordCliente);
 
+        int GetClienteId(string cedulaCliente);
+
     }
 
 }

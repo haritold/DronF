@@ -52,6 +52,12 @@ namespace Drone.App.Persistencia
             return _appContext.Clientes.SingleOrDefault(c => c.PasswordClie == passwordCliente);
         }
 
+        public int GetClienteId(string cedulaCliente)
+        {
+            var clienteEn = _appContext.Clientes.SingleOrDefault(c => c.Cedula == cedulaCliente);
+            return clienteEn.Id;
+        }
+
         ///UPDATE
 
         public Cliente Update(Cliente clienteActualizado)

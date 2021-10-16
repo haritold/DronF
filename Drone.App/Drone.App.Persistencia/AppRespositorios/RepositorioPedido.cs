@@ -11,6 +11,7 @@ namespace Drone.App.Persistencia
 
         List<Producto> inventario;
         List<Producto> carrito;
+        Cliente cliente;
 
         ///------------------------------------------------
 
@@ -41,6 +42,8 @@ namespace Drone.App.Persistencia
             {
                 new Producto{Id=0, Nombre="Prueba", Precio=1000}     
             };
+
+            cliente = new Cliente();
 
         }
         

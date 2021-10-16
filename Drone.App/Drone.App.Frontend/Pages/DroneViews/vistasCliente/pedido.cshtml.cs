@@ -40,8 +40,6 @@ namespace Drone.App.Frontend.Pages
             Carrito= _repoPedido.GetAllCarrito();
             InventarioProd = _repoPedido.GetAllInventario();
 
-            // AddPedidoConProductos();
-
             return Page();
         }
 
