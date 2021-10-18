@@ -1,0 +1,28 @@
+﻿@page
+@model Drone.App.Frontend.Pages.conexionBDModel
+@{
+}
+
+<h1>Lista de clientes </h1>
+
+<table class="table">
+    @{foreach (var cliente in Model.Clientes)
+    {
+        <tr>
+            <td>@cliente.Id</td>
+            <td>@cliente.Nombre</td>
+            <td>@cliente.Apellido</td>
+            <td>@cliente.Cedula</td>
+            <td>@cliente.Telefono</td>
+            <td>@cliente.Correo</td>
+            <td>@cliente.Direccion</td>
+
+            <td>
+                <a class="btn btn-primary table-btn" asp-page="./Edit" asp-route-saludoId="@cliente.Id">
+                <i class="fas fa-address-book fa-lg" aria-hidden="true"></i>
+                </a>
+            </td>
+        </tr>
+        
+    }}
+</table>

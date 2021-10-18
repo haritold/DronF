@@ -1,0 +1,69 @@
+﻿@page
+@model Drone.App.Frontend.Pages.editarEncargadoModel
+@{
+}
+
+<h1>Edición de encargado: @Model.Encargado.Nombre</h1>
+
+<a asp-page="./asignarPedidos" class= "btn-default">Lista de encargados</a>
+
+<form method="POST">
+
+    <div class="col-md-4">
+
+        <input type="hidden" asp-for="Encargado.Id">
+
+        <div class="form-group mb-3">
+            <label asp-for="Encargado.Nombre"></label>
+            <input asp-for="Encargado.Nombre" class="form-control">
+            <span class="text-danger" asp-validation-for="Encargado.Nombre"></span>
+        </div>
+
+        <div class="form-group mb-3">
+            <label asp-for="Encargado.Apellido"></label>
+            <input asp-for="Encargado.Apellido" class="form-control">
+            <span class="text-danger" asp-validation-for="Encargado.Apellido"></span>
+        </div>
+
+        <div class="form-group mb-3">
+            <label asp-for="Encargado.Cedula"></label>
+            <input asp-for="Encargado.Cedula" class="form-control">
+            <span class="text-danger" asp-validation-for="Encargado.Cedula"></span>
+        </div>
+
+        <div class="form-group mb-3">
+            <label asp-for="Encargado.Telefono"></label>
+            <input asp-for="Encargado.Telefono" class="form-control">
+            <span class="text-danger" asp-validation-for="Encargado.Telefono"></span>
+        </div> 
+
+        <div class="form-group mb-3">
+            <label asp-for="Encargado.Correo"></label>
+            <input asp-for="Encargado.Correo" class="form-control">
+            <span class="text-danger" asp-validation-for="Encargado.Correo"></span>
+        </div> 
+
+        <div class="form-group mb-3">
+            <label asp-for="Encargado.Ciudad"></label>
+            <input asp-for="Encargado.Ciudad" class="form-control">
+            <span class="text-danger" asp-validation-for="Encargado.Ciudad"></span>
+        </div> 
+
+        <div class="form-group mb-3">
+            <label asp-for="Encargado.PasswordEncarg"></label>
+            <input asp-for="Encargado.PasswordEncarg" class="form-control">
+            <span class="text-danger" asp-validation-for="Encargado.PasswordEncarg"></span>
+        </div> 
+
+        <button type="submit" class="btn btn-primary mb-3">Guardar</button>
+
+
+    </div>
+
+    
+</form>
+
+
+
+    
+    
