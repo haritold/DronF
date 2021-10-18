@@ -1,3 +1,0 @@
-D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\obj\Debug\netstandard2.1\Drone.App.Frontend.csprojAssemblyReference.cache
-D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\obj\Debug\netstandard2.1\Drone.App.Frontend.AssemblyInfoInputs.cache
-D:\git-CloneDron\DronF\DronF\Drone.App\Drone.App.Frontend\obj\Debug\netstandard2.1\Drone.App.Frontend.AssemblyInfo.cs
