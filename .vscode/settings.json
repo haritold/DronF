@@ -1,4 +1,0 @@
-{
-    "appService.defaultWebAppToDeploy": "/subscriptions/3f176f15-677b-4e17-a8f1-5cae87b4ac4e/resourceGroups/appsvc_windows_centralus/providers/Microsoft.Web/sites/Dronef",
-    "appService.deploySubpath": "Drone.App\\Drone.App.Frontend\\publish"
-}
